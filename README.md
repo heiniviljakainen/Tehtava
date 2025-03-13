@@ -32,7 +32,9 @@
 <body>
     <header>
         <h1 class="title">Labradorinnoutaja</h1>
-        <img src="Kuvat/dog-773439_1280.jpg" alt="Labradorinnoutaja">
+          <header>
+        <h1 class="title">Labradorinnoutaja</h1>
+        <img src="Kuvat/dog-773439_1280.jpg" alt="labradorinnoutaja">
     
     </header>
 
