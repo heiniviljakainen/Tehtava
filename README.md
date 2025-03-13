@@ -29,7 +29,7 @@
 <body>
     <header>
         <h1 class="title">Labradorinnoutaja</h1>
-        <img src="Kuvat/dog-773439_1280.jpg" alt="labradorinnoutaja">
+        <img src="Kuvat" alt="labradorinnoutaja">
     </header>
 
     <h2>Labradorinnoutaja käyttötarkoitus</h2>
