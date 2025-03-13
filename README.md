@@ -1,31 +1,4 @@
 
-<head>
-   
- 
-    <style>
-        body {
-            background-color: rgb(210, 176, 130);
-        }
-
-        h1 {
-            text-decoration-style: solid;
-            font-size: 2em;
-            text-shadow: 2px 2px rgba(0,0,0,0.2);
-            font-family: 'Times New Roman', Times, serif;
-        }
-
-        h1, h2, h3, p {
-            text-align: center;
-            color: rgb(69, 68, 67);
-        }
-
-        img {
-            display: block;
-            margin: 0 auto;
-            max-width: 100%;
-        }
-    </style>
-</head>
 <body>
     <header>
         <h1 class="title">Labradorinnoutaja</h1>
@@ -55,5 +28,35 @@
 
     <h3>Lähde</h3>
     <p><a href="https://www.hankikoira.fi/koirarodut/labradorinnoutaja">Hankikoira.fi</a></p>
+
+
+<head>
+   
+ 
+    <style>
+        body {
+            background-color: rgb(210, 176, 130);
+        }
+
+        h1 {
+            text-decoration-style: solid;
+            font-size: 2em;
+            text-shadow: 2px 2px rgba(0,0,0,0.2);
+            font-family: 'Times New Roman', Times, serif;
+        }
+
+        h1, h2, h3, p {
+            text-align: center;
+            color: rgb(69, 68, 67);
+        }
+
+        img {
+            display: block;
+            margin: 0 auto;
+            max-width: 100%;
+        }
+    </style>
+</head>
+    
 </body>
 </html>
