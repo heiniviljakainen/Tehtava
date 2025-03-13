@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="fi">
 <head>
     <meta charset="UTF-8">
@@ -32,7 +32,7 @@
     </header>
     <h2>Labradorinnoutaja käyttötarkoitus</h2>
     <p>Labradorinnoutaja on yksi maailman suositumpi koiraroduista, eikä syyttä – se on äärimmäisen monipuolinen ja soveltuu moniin eri tehtäviin. Alun perin rotu kehitettiin metsästyskoiraksi, erityisesti vesilintujen ja muun pienriistan noutamiseen sekä loukkaantuneen riistan jäljestämiseen.</p>
-    <p>Nykyään labradorinnoutajat lo istavat monilla eri osa-alueilla. Ne toimivat opaskoirina, avustajakoirina, huume- ja pommikoirina, terapiakoirina sekä etsintä- ja pelastustehtävissä. Lisäksi ne ovat suosittuja sienikoiria ja kilpailevat menestyksekkäästi eri koemuodoissa. Suurin osa labradoreista toimii kuitenkin rakastettuina perheenjäseninä ja seurakoirina.</p>
+    <p>Nykyään labradorinnoutajat loistavat monilla eri osa-alueilla. Ne toimivat opaskoirina, avustajakoirina, huume- ja pommikoirina, terapiakoirina sekä etsintä- ja pelastustehtävissä. Lisäksi ne ovat suosittuja sienikoiria ja kilpailevat menestyksekkäästi eri koemuodoissa. Suurin osa labradoreista toimii kuitenkin rakastettuina perheenjäseninä ja seurakoirina.</p>
 
     <h2>Luonne ja käyttäytyminen</h2>
     <p>Nykyään labradorinnoutajat loistavat monilla eri osa-alueilla. Ne toimivat opaskoirina, avustajakoirina, huume- ja pommikoirina, terapiakoirina sekä etsintä- ja pelastustehtävissä. Lisäksi ne ovat suosittuja sienikoiria ja kilpailevat menestyksekkäästi eri koemuodoissa. Suurin osa labradoreista toimii kuitenkin rakastettuina perheenjäseninä ja seurakoirina.</p>
@@ -40,7 +40,7 @@
     <p>Aikuisena labradorinnoutaja on keskikokoinen koira: urosten säkäkorkeus noin 56–57 cm ja narttujen 54–56 cm. Henkin psyykkistä kehittyy näin, erityisesti urokset jatkuvat aikuisuuden vasta–4 vuoden iässä. Koiran oppimiskyky kuitenkin säilyy hyvänä koko sen eliniän ajan.</p>
 
     <h2>Terveys ja hoito</h2>
-    <p>Labradorinnoutaja on pääosin terve rotu, mutta kuten monilla muilla suurikokoisilla koirilla, sillä voi esiintyä lonkka- ja kyynärnivelongelmia sekä atopiaa. Jalostukseen käytettäviltä yksilöiltä vaaditaanlonkka- ja kyynärnivelkuvaukset sekä silmätarkastus.</p>
+    <p>Labradorinnoutaja on pääosin terve rotu, mutta kuten monilla muilla suurikokoisilla koirilla, sillä voi esiintyä lonkka- ja kyynärnivelongelmia sekä atopiaa. Jalostukseen käytettäviltä yksilöiltä vaaditaan lonkka- ja kyynärnivelkuvaukset sekä silmätarkastus.</p>
     <p>Rodun turkinhoito on – säännöllinen harjaus ja pesutarpeet riittävät. Labradorinnotaja ei tarvitse trimmausta, mutta se vaihtaa karvaa ympäri vuoden, ja kahdesti tapahtuu enemmän karvanlähtöä.</p>
 
     <h2>Kenelle labradorinnoutaja sopii</h2>
