@@ -2,6 +2,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
+
+
+<html lang="fi">
+<head>
+    <meta charset="UTF-8">
+    <title>Kuva Esimerkki</title>
+</head>
+<body>
+    <h1>Kuva Labradorinnoutajasta</h1>
+    <img src="https://github.com/heiniviljakainen/labradorinnoutaja/raw/d76ca9fac60b140289cbe1d8daf5c4a0810a1d76/Labratorinnoutaja/Kuvat/Kuvat/dog-773439_1280.jpg" alt="Labradorinnoutaja">
+</body>
+</html>
+        
         body {
             background-color: rgb(210, 176, 130);
         }
