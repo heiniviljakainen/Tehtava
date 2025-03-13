@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="fi">
 <head>
     <meta charset="UTF-8">
@@ -57,4 +57,4 @@
     <h3>Lähde</h3>
     <p>Hankikoira.fi</p>
 </body>
-</html>
+
